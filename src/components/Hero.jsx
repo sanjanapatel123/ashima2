@@ -11,7 +11,7 @@ const HeroSection = () => {
         <h1 className="text-[50px] md:text-5xl font-normal text-black leading-[55px] mt-2 font-impact tracking-[0.5%]">
           TO LIFT UP YOUR CAREER <br />
           MASTER THE FUTURE OF TECHNOLOGY
-        </h1>
+        </h1>console.log("HeroSection component rendered");
         <button className="mt-8 bg-[#047670] text-white font-semibold w-[150px] h-[45px] p-[10px] rounded-[16px] shadow-md hover:bg-teal-800 transition">
           Explore Courses
         </button>
