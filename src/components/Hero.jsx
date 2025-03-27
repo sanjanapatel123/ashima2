@@ -18,25 +18,7 @@ const HeroSection = () => {
       </div>
 
       {/* Right Content */}
-      {/* <div className="md:w-1/2 mt-10 md:mt-0">
-        <p className="text-gray-700 text-sm font-bold leading-relaxed">
-          A complete platform to provide you option to learn from Live,
-          Hybrid,<br /> and Video courses. No more to look at separate places to <br /> learn.
-          Technology changes very fast and it is very crucial to keep <br /> yourself updated with the latest innovations. 
-          Our courses are AI-focused <br /> across all tech domains and help you learn from top experts in the field.
-        </p>
-        <div className="flex space-x-4 mt-6">
-          <button className="bg-teal-400 text-black font-semibold px-6 py-3 rounded-lg shadow-md">
-            Live
-          </button>
-          <button className="bg-black text-white font-semibold px-6 py-3 rounded-lg shadow-md">
-            Hybrid
-          </button>
-          <button className="bg-red-400 text-white font-semibold px-6 py-3 rounded-lg shadow-md">
-            Video
-          </button>
-        </div>
-      </div> */}
+  
       <div className="mt-10 ml-auto text-pretty">
         <p className="text-black font-roboto text-[16px] font-semibold leading-[18px] max-w-lg tracking-[2%]">
           A complete platform to provide you option to learn from Live, Hybrid,
